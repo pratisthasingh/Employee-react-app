@@ -1,3 +1,3 @@
 # EMPLOYEE MANAGEMENT WEB APP
-THIS WEB APP IS ALL ABOUT SIGNING UP AND CREATE AN ACCOUNT TO ACCESS THE APP. THE CREATED USER CAN FEED/CREATE THE EMPLOYEE WITH ALL THEIR BASIC DETAILLS.
-THIS IS A PROJECT USING BSICS OF REACTJS ,REDUX AND MATERIAL UI .
+This is a employee management application ,which has functionalities to  first sign in/ sign up, in application and then to add a employee with all his/her details, delete a employee and can view the list of all the employee & their details in the application.
+THIS PROJECT IS USING REACTJS , REDUX AND MATERIAL UI.
